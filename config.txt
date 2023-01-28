@@ -1,0 +1,5 @@
+lang=eng
+bp=false
+blatant=false
+topmost=true
+showintaskbar=true
